@@ -17,7 +17,7 @@ import base64 from 'react-native-base64';
 //const BASIC_API = this.state.url;
 
 const firebaseConfig = {
-    apiKey: "AIzaSyD_DiUlHSHiflswnFIEHOXWXKHKF9ufy88",
+    apiKey: "", // Set API KEY here
     authDomain: "snow-bot-496dd.firebaseapp.com",
     databaseURL: "https://snow-bot-496dd.firebaseio.com",
     projectId: "snow-bot-496dd",
