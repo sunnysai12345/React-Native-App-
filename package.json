@@ -22,7 +22,7 @@
     "native-base": "^2.12.1",
     "nodemon": "^1.19.0",
     "react": "16.8.6",
-    "react-native": "^0.59.6",
+    "react-native": "^0.71.7",
     "react-native-app-auth": "^4.3.1",
     "react-native-base64": "0.0.2",
     "react-native-camera": "^3.1.1",
