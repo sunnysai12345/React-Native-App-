@@ -19,7 +19,7 @@
     "express": "^4.16.4",
     "firebase": "^6.0.4",
     "mongoose": "^5.5.5",
-    "native-base": "^2.12.1",
+    "native-base": "^2.15.2",
     "nodemon": "^1.19.0",
     "react": "16.8.6",
     "react-native": "^0.59.6",
